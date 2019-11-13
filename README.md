@@ -4,4 +4,4 @@ I created a user-friendly tool for the Regional Director of a Pharmaceutical com
 
 With her blessing, I've recreated the interface with dummy data replacing proprietary/private information. 
 
-https://app.powerbi.com/reportEmbed?reportId=7340b05c-1b65-40e8-86b3-240843cc0ebe&autoAuth=true&ctid=974d3927-9bb4-48c9-b65c-6094393d030b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+https://app.powerbi.com/groups/me/reports/b042cda7-fd66-4acf-997a-5216f46b72f2
