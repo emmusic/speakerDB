@@ -6,4 +6,4 @@ I coded the underlying database in MySQL and created the user-friendly interface
 
 With her blessing, I've recreated the interface with dummy data replacing or removing proprietary/private information. 
 
-https://app.powerbi.com/groups/me/reports/b042cda7-fd66-4acf-997a-5216f46b72f2
+https://app.powerbi.com/view?r=eyJrIjoiYzQ3YzhlOGEtMmJlMS00MTUyLWIxN2YtNTY0OWQ5ZWZhZGQ5IiwidCI6Ijk3NGQzOTI3LTliYjQtNDhjOS1iNjVjLTYwOTQzOTNkMDMwYiJ9
